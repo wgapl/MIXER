@@ -39,7 +39,8 @@ The software is written in Lua. It requires the following packages:
 * Torch 7
 * nngraph
 * cutorch
-* cunn  
+* cunn 
+
 It runs on standard Linux box with GPU.
 
 ## Installing
